@@ -1,7 +1,8 @@
-import { Card, CardContent } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
+import { Card, CardContent } from "../components/ui/card";
+import { Button } from "../components/ui/button";
 import { Mail, Github, Linkedin } from "lucide-react";
 import { motion } from "framer-motion";
+
 
 export default function Portfolio() {
   return (
